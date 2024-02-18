@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>sfSymbol</key>
+		<string>heart</string>
+		<key>title</key>
+		<string>Welcome to FitOrNot!</string>
+		<key>content</key>
+		<string>FInding your fit the easy way!</string>
+		<key>image</key>
+		<string>profile</string>
+	</dict>
+	<dict>
+		<key>sfSymbol</key>
+		<string>camera</string>
+		<key>title</key>
+		<string>It&apos;s as simple as a single snap!</string>
+		<key>content</key>
+		<string>Get your measurements and shop your favorite brands!</string>
+		<key>image</key>
+		<string>profile</string>
+	</dict>
+	<dict>
+		<key>sfSymbol</key>
+		<string>person.crop.circle</string>
+		<key>title</key>
+		<string>Let&apos;s update your account!</string>
+		<key>content</key>
+		<string>What should we call you by?</string>
+		<key>image</key>
+		<string>profile</string>
+	</dict>
+</array>
+</plist>
